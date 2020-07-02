@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#sheet {
+  border: 1px solid #efefef;
+  height: fit-content;
+  width: 538px;
+  min-height: 20px;
+  margin-top: 20px;
+}
+
+#sheet .sheet-row input:not(:first-child) {
+  margin-left: -5px;
+}
+#sheet input {
+  border: 1px solid silver;
+  width: 100px;
+  height: 15px;
+  margin: 0;
+  padding: 3px;
+}
