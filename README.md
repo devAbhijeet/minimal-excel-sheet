@@ -1,5 +1,5 @@
-### A minimal excel sheet maid with vanilla javascript
+### A minimal excel sheet made with vanilla javascript
 
-- Supports adding row
-- Supports adding column
-- removing row
+- Add new row
+- Add new column
+- Remove row
