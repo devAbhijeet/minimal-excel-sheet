@@ -41,8 +41,8 @@ let addSheetCol = e => {
 };
 
 let removeSheetRow = () => {
-  selectedRow = sheetData.length - 1;
   sheetData.pop();
+  selectedRow = sheetData.length - 1;
   render(sideEffect);
 };
 
